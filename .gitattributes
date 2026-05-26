@@ -1,0 +1,11 @@
+# Normalize text files
+* text=auto
+
+# Keep common source files as text
+*.cpp text
+*.h text
+*.md text
+*.txt text
+*.xml text
+*.atsln text
+*.cppproj text

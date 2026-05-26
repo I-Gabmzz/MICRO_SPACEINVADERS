@@ -1,0 +1,43 @@
+# Microchip Studio / Visual Studio local files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.atsuo
+
+# Build folders
+Debug/
+Release/
+[Dd]ebug/
+[Rr]elease/
+
+# AVR generated build files
+*.o
+*.d
+*.elf
+*.hex
+*.eep
+*.lss
+*.map
+*.srec
+*.bin
+*.lst
+*.sym
+
+# Generated make/dependency files
+makedep.mk
+Makefile
+
+# Microchip generated metadata
+*.componentinfo.xml
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.bak
+*.log
