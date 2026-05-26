@@ -82,28 +82,11 @@ MICRO_SPACEINVADERS/
 4. Compilar el proyecto desde Microchip Studio.
 5. El archivo `.hex` se genera en la carpeta de compilación, pero no se recomienda subirlo al repositorio porque es un archivo generado automáticamente.
 
-## Archivos que no se deben subir
-
-Para mantener el repositorio limpio, se excluyen carpetas y archivos generados por Microchip Studio o por la compilación, como:
-
-- `.vs/`
-- `Debug/`
-- `Release/`
-- `*.o`
-- `*.d`
-- `*.elf`
-- `*.hex`
-- `*.map`
-- `*.lss`
-- `*.srec`
-- `*.eep`
-
-Estos archivos pueden volver a generarse al compilar el proyecto.
-
 ## Estado del proyecto
 
 Proyecto en desarrollo/finalización para práctica o entrega académica de Microcontroladores.
 
-## Autor
+## Autores
 
 Ángel Gabriel Manjarrez Moreno
+Diego Erik Alfonso Montoya
